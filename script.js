@@ -19,7 +19,7 @@ ready: true,
 name: "Anha Construction Management System",
 description: "A web-based system for managing construction projects, employees, clients, and financial records.",
 tech: ["HTML", "CSS", "JavaScript", "PHP", "MySQL"],
-image: "images/anha-dashboard.png",
+image: "anha-dashboard.png",
 github: "",
 demo: ""
   },
@@ -29,7 +29,7 @@ demo: ""
   name: "GoFar Travel Management System",
   description: "A travel management for organizing bookings, customers, destinations, travel packages, and financial information.",
   tech: ["HTML", "CSS", "JavaScript", "MySQL"],
-  image: "images/gofar-dashboard.png",
+  image: "gofar-dashboard.png",
   github: "",
   demo: ""
 },
@@ -40,7 +40,7 @@ demo: ""
   name: "Data Science & Data Cleaning",
   description: "A data preprocessing assignment focused on handling missing values using Mean and Mode imputation and detecting outliers using the IQR method.",
   tech: ["Python", "Pandas", "Google Colab"],
-  image: "images/data-science.png",
+  image: "data-science.png",
   github: "",
   demo: ""
 }
